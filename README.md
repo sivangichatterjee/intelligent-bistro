@@ -80,7 +80,7 @@ intelligent-bistro/
 
 ---
 
-## 🔌 AI Contract
+##  AI Contract
 
 The frontend POSTs to `/api/chat` with the user's message, the current cart, and bounded conversation history:
 
@@ -198,6 +198,6 @@ The pattern that worked: **specify the contract, let the AI implement, verify on
 
 ---
 
-## 📂 License
+##  License
 
 Built as an internship submission. Not for production use.
