@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Wokwise",
+    "slug": "bistro-frontend",
+    "scheme": "wokwise",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.wokwise.bistro"
+    },
+    "experiments": {
+      "typedRoutes": true
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-font",
+        {
+          "fonts": []
+        }
+      ],
+      "expo-asset"
+    ]
+  }
+}

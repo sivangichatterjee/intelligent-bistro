@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment
+.env
+*/.env
+.env.local
+
+# Expo
+.expo/
+*/.expo/
+dist/
+*/dist/
+web-build/
+
+# macOS
+.DS_Store
+*.pem
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
