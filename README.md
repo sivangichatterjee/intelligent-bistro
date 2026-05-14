@@ -1,6 +1,6 @@
 # Wokwise
 
-An AI-powered Asian fusion bistro ordering app. Built as a 2-day internship submission for Viridien.
+An AI-powered Asian fusion bistro ordering app. Built as an internship submission for Viridien.
 
 ---
 
@@ -75,4 +75,4 @@ npx expo start
 
 ## Submission
 
-Built for the Viridien 2-day internship challenge. See `CLAUDE.md` for full technical specification and development conventions.
+Built for the Viridien internship challenge. See `CLAUDE.md` for full technical specification and development conventions.
