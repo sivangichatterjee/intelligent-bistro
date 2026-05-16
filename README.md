@@ -12,7 +12,7 @@ An AI-powered Asian fusion ordering app built for the **Viridien AI Full-Stack E
 
 ## 📽️ Demo
 
-**5-minute walkthrough:** _(Loom link will be added after recording)_
+**5-minute walkthrough:** https://www.loom.com/share/fc37110145de490cbddd9db9f76d904d
 
 ---
 
